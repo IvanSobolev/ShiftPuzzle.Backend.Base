@@ -1,4 +1,6 @@
 # Easy Tracker API
+Базовое апи таск трекера!
+
 ## about me
 i am the best people in KOD. Millioner, playboy, filantrop.
 
