@@ -2,7 +2,7 @@
 ## about me
 i am the best people in KOD. Millioner, playboy, filantrop.
 
-##project technologi
+## project technologi
 - dotnet 
 - web api
 - efcore
